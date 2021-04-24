@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+ html {
+     font-size: 14px;
+ }
+
+ h2, h6, p, ul {
+     margin: 0;
+ }
+
+ h2, h6 {
+     margin-bottom: 1.6666vh;
+ }
+
+ a {
+     text-decoration: none;
+     cursor: pointer;
+ }
+
+ body {
+     color: #211138;
+     font-family: 'Montserrat', sans-serif;
+ }
+
+ h2 {
+     font-size: 4.4444vh;
+ }
